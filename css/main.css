@@ -1,0 +1,168 @@
+.headersection{
+    justify-content: flex-end;
+}
+
+.navbarsection{
+    padding: 15px 50px 15px 0;
+    font-weight: 500;
+}
+
+.navbardropdown li{
+    padding: 0px 30px 0px 0px;
+    font-size: 15;
+}
+
+.nav-link img{
+    width: 20;
+}
+
+.freeshipping{
+    background-color: purple;
+    color: white;
+    padding: 20px 30px 10px 0px;
+    text-align: center;
+}
+
+.slidebannersection{
+    position: relative;
+    
+}
+
+.centered{
+    position: absolute;
+    top: 0;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.centered h1{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.centered p{
+    color: white;
+    font-size: 20px;
+}
+
+.centered button{
+    padding: 10px 24px;
+    background-color: white;
+    color: purple;
+    border: none;
+    border-radius: 10px;
+
+}
+
+
+.slidebannersection img{
+    width: 100%;
+    height: 800px;
+}
+
+.bestseller h1{
+    text-align: center;
+    padding: 50px 0 50px 0;
+}
+
+.productsection{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.productsection img{
+    width: 100%;
+}
+
+.productsection del,.soldout{
+    color: gray;
+}
+
+.poster{
+    padding-top: 100px;
+}
+.banner{
+    
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: url("../images/home.jpg");
+
+    height: 100vh;
+    background-size: cover;
+    background-position:center ;
+    color: white;
+}
+
+.banner h1{
+    font-size: 60px;
+    font-weight: bold;
+    
+}
+
+.banner p{
+    font-size: 20px;
+    
+}
+
+.banner button{
+    padding: 10px 24px;
+    background-color: white;
+    color: purple;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.aboutsection{
+    display: flex;
+    justify-content: space-between;
+    padding: 90px 90px 50px 120px;
+}
+.aboutsection img{
+    width: 100%;
+}
+.aboutsection button{
+    padding: 10px 24px;
+    background-color: purple;
+    color: white;
+    border-radius: 10px;
+}
+
+.cardtext{
+    padding-left: 40px;
+}
+
+footer{
+    padding: 50px 0 0 0;
+    background-color: lightgrey;
+}
+.footertext P{
+    font-weight: bold;
+    font-size: 25;
+    color: black;
+    
+}
+footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.socialmedia img{
+    width: 50px;
+    padding:20px 20px 20px 0px;
+}
+
+.contact-footer a{
+    color: black;
+    font-size: 20px;
+}
+
